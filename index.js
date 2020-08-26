@@ -59,10 +59,10 @@ function promptUser() {
 // function to write README file
 function generateREADME(answers) {
     return `
-    {answers.title}
+    ${answers.title}
 
     Description:
-    {answers.description}
+    ${answers.description}
 
     Table of Contents:
         Description
@@ -74,23 +74,23 @@ function generateREADME(answers) {
         Questions
     
     Installation:
-    {answers.install}
+    ${answers.install}
 
     Usage:
-    {answers.usage}
+    ${answers.usage}
 
     License:
-    {answers.license}
+    ${answers.license}
 
     Contributing:
-    {answers.contributing}
+    ${answers.contribution}
 
     Tests:
-    {answers.tests}
+    ${answers.testing}
 
     Questions:
 
-    If you have any questions, please email me at {answers.email} or message my github profile: {answers.username}
+    If you have any questions, please email me at ${answers.email} or message my github profile: ${answers.username}
     `
 }
 
