@@ -50,8 +50,10 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile("ReadME.me", data) {
-}
+function writeToFile("ReadME.me", data + "\n") {
+    
+} 
+
 
 // function to initialize program
 function init() {
