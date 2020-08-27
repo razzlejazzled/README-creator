@@ -29,7 +29,7 @@ function generateMarkdown({title, description, install, usage, license, contribu
    
    Click on the link to get more information on the license!
 
-   > [License Info](#https://opensource.org/licenses/${license})
+   > [License Info](https://opensource.org/licenses/${license})
 
    ## Contributing:
    > ${contribution}
