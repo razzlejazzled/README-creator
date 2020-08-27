@@ -39,7 +39,7 @@ function generateMarkdown({title, description, install, usage, license, contribu
 
    ## Questions:
 
-   > If you have any questions, please email me at ${email} or message my github profile: ${username}
+   > If you have any questions, please email me at ${email} or message my github profile: [${username}](https://github.com/${username})
     
 
 `;

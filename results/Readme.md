@@ -1,11 +1,11 @@
-# ReadME-Creator
-  
-    ReadME-Creator
+# Readme-Creator
+   
+    Readme-Creator
 
    ## Description:
-    This is a node application that is designed to procedurally generate README files.
+    This is a node application that procedurally generates README files
 
-  ![License](https://img.shields.io/badge/License-Apache-blue.svg)
+  ![License](https://img.shields.io/badge/License-GPL-blue.svg)
 
   # Table of Contents:
   - [Description](#Description)
@@ -20,23 +20,23 @@
    > npm install
 
    ## Usage:
-   > It is used to generate README files.
+   > Use it to create README files in node!
 
    ## License:
-   > Apache
+   > GPL
    
    Click on the link to get more information on the license!
 
-   > [License Info](#https://opensource.org/licenses/Apache)
+   > [License Info](#https://opensource.org/licenses/GPL)
 
    ## Contributing:
-   > Contributions are not being accepted at this time.
+   > Contributions are not being accepted at this time!
 
    ## Tests:
-   > node filename
+   > N/A
 
    ## Questions:
 
-   > If you have any questions, please email me at robertjgassner@gmail.com or message my github profile: razzlejazzle.
+   > If you have any questions, please email me at robertjgassner@gmail.com or message my github profile: [razzlejazzle](https://github.com/razzlejazzle)
     
 
