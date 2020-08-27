@@ -1,36 +1,42 @@
-# aa
+# ReadME-Creator
   
-    aa
+    ReadME-Creator
 
-    Description:
-    aa
+   ## Description:
+    This is a node application that is designed to procedurally generate README files.
 
-    Table of Contents:
-        Description
-        Installation
-        Usage
-        License
-        Contributing
-        Tests
-        Questions
+  ![License](https://img.shields.io/badge/License-Apache-blue.svg)
+
+  # Table of Contents:
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributing](#Contributing)
+  - [Tests](#Tests)
+  - [Questions](#Questions)
     
-    Installation:
-    aa
+   ## Installation:
+   > npm install
 
-    Usage:
-    aa
+   ## Usage:
+   > It is used to generate README files.
 
-    License:
-    MIT
+   ## License:
+   > Apache
+   
+   Click on the link to get more information on the license!
 
-    Contributing:
-    aa
+   > [License Info](#https://opensource.org/licenses/Apache)
 
-    Tests:
-    aa
+   ## Contributing:
+   > Contributions are not being accepted at this time.
 
-    Questions:
+   ## Tests:
+   > node filename
 
-    If you have any questions, please email me at aa or message my github profile: aa
+   ## Questions:
+
+   > If you have any questions, please email me at robertjgassner@gmail.com or message my github profile: razzlejazzle.
     
 

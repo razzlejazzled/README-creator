@@ -4,36 +4,42 @@ function generateMarkdown({title, description, install, usage, license, contribu
   
     ${title}
 
-    Description:
+   ## Description:
     ${description}
 
-    Table of Contents:
-        Description
-        Installation
-        Usage
-        License
-        Contributing
-        Tests
-        Questions
+  ![License](https://img.shields.io/badge/License-${license}-blue.svg)
+
+  # Table of Contents:
+  - [Description](#Description)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributing](#Contributing)
+  - [Tests](#Tests)
+  - [Questions](#Questions)
     
-    Installation:
-    ${install}
+   ## Installation:
+   > ${install}
 
-    Usage:
-    ${usage}
+   ## Usage:
+   > ${usage}
 
-    License:
-    ${license}
+   ## License:
+   > ${license}
+   
+   Click on the link to get more information on the license!
 
-    Contributing:
-    ${contribution}
+   > [License Info](#https://opensource.org/licenses/${license})
 
-    Tests:
-    ${testing}
+   ## Contributing:
+   > ${contribution}
 
-    Questions:
+   ## Tests:
+   > ${testing}
 
-    If you have any questions, please email me at ${email} or message my github profile: ${username}
+   ## Questions:
+
+   > If you have any questions, please email me at ${email} or message my github profile: ${username}
     
 
 `;

@@ -30,7 +30,7 @@ function promptUser() {
     {
         type: "checkbox",
         message:"What is the license for this project?",
-        choices: ["MIT", "Apache", "GPL", "Other"],
+        choices: ["MIT", "Apache", "GPL"],
         name: "license",
     },
     {
