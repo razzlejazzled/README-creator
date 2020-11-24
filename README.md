@@ -5,6 +5,10 @@ This is an application that is designed to procedurally generate README files us
 # Operation
 Once the dependencies have been installed, the user can type npm start into their terminal and hit enter to start the application. The user will be given several prompts, and once all the information has been gathered, the application will create a new file that will be the readme. 
 
+# Technologies used
+Node.js
+Inquirer
+
 # Demo
 You can view a youtube video demoing this application [here](https://youtube.com/watch?v=o9jW6jhYkJw&feature=youtu.be)
 
